@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+numpy
+scipy
+filterpy
+pillow
+pyobjc  # Provides AppKit for macOS
